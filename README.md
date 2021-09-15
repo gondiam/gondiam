@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gonzalo D. 
+- 👋 Hi, I’m gondiam 
 - 👀 I’m interested in Statistics, Machine Learning, Deep Learning
 - 🌱 I’m currently learning Data Analytics 
 - 💞️ I’m looking to collaborate on ML projects and in tranding bots in cryptocurrencies
