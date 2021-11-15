@@ -1,3 +1,0 @@
-timestamp,experiment_id,project_name,duration,emissions,energy_consumed,country_name,country_iso_code,region,on_cloud,cloud_provider,cloud_region
-2021-04-05T10:34:06,c337b1d0-052a-4147-bdb3-334e27aae76a,codecarbon,46.054194927215576,0.0,0.0,Canada,CAN,,N,,
-2021-04-05T10:36:07,d9fae616-0c87-48dc-a4c2-31de028857c0,codecarbon,46.11238074302673,0.0,0.0,Canada,CAN,,N,,
