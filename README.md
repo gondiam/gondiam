@@ -1,6 +1,6 @@
 - 👋 Hi, I’m gondiam 
 - 👀 I’m interested in Statistics, Machine Learning, Deep Learning
-- 🌱 I’m currently learning Data Analytics 
+- 🌱 I’m currently learning Artificial Intelligence 
 - 💞️ I’m looking to collaborate on ML projects and in trading bots in cryptocurrencies
 - 📫 How to reach me gdiazamor.ds@gmail.com
 
