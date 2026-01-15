@@ -35,7 +35,7 @@ I am a **GenAI-oriented Data Scientist** and **BSc Statistician** with a proven 
 ### 📫 Let's Connect
 * **Email:** [gdiazamor.ds@gmail.com](mailto:gdiazamor.ds@gmail.com)
 * **LinkedIn:** [linkedin.com/in/gdiazamor](https://www.linkedin.com/in/gdiazamor)
-* **Portfolio:** [gondiam.github.io]([https://gondiam.github.io/Gonzalo%20Portfolio](https://gondiam.github.io/Gonzalo_Portfolio/))
+* **Portfolio:** [gondiam.github.io](https://gondiam.github.io/Gonzalo_Portfolio/)
 
 ---
 *"Continuous learning in Data Science is not an option, it is the key that unlocks the future of innovation and knowledge."*
