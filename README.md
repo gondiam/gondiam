@@ -1,46 +1,44 @@
 # 👋 Hi, I’m Gonzalo Díaz Amor
 
-[cite_start]I am a **GenAI-oriented Data Scientist** and **BSc Statistician** [cite: 1, 7] [cite_start]with hands-on experience developing ML and AI pipelines[cite: 7]. [cite_start]I specialize in building LLM-based architectures, RAG pipelines, and automating data workflows in cloud environments[cite: 8, 9].
-
-[cite_start]I thrive at the intersection of rigorous statistical analysis and cutting-edge AI orchestration[cite: 10, 11].
+I am a **GenAI-oriented Data Scientist** and **BSc Statistician** with a proven track record in developing ML and AI pipelines. My expertise lies in building LLM-based architectures, RAG pipelines, and automating data workflows in cloud environments to solve complex business challenges.
 
 ---
 
 ### 🚀 Professional Highlights
-* [cite_start]**GenAI & LLMs:** Expert in LangChain, prompt engineering, embeddings, and vector search[cite: 8, 40, 65].
-* [cite_start]**Causal AI:** Developed infrastructure for Double Machine Learning and Causal Forest models to quantify environmental impacts[cite: 13].
-* [cite_start]**Engineering:** Proficient in building RESTful APIs (FastAPI), containerization (Docker), and ETL orchestration (Airflow)[cite: 13].
-* [cite_start]**Clinical Excellence:** Lead programmer for Phase IV studies, saving 3+ years of research through efficient data transformation and EMA compliance[cite: 13].
+* **GenAI & LLMs:** Experienced in designing and deploying AI agent systems using LLMs, LangChain, embeddings, and vector search.
+* **Causal AI:** Developed data infrastructure for Double Machine Learning and Causal Forest models to quantify pollution's impact on patient outcomes.
+* **Engineering & Deployment:** Proficient in building RESTful APIs with FastAPI, containerizing applications with Docker, and orchestrating ETL workflows with Airflow.
+* **Clinical Data Science:** Acted as a programming lead for Phase IV studies, ensuring EMA compliance and optimizing research timelines by 3+ years.
 
 ### 🛠️ Technical Stack
-* [cite_start]**Languages:** Python, R, SQL, PySpark[cite: 13, 65].
-* [cite_start]**AI/ML:** LangChain, FastAPI, RAG Pipelines, SHAP/LIME (Explainable AI)[cite: 44, 65].
-* [cite_start]**Cloud & DevOps:** AWS, Azure, GCP, Docker, Airflow, Git[cite: 13, 65].
-* [cite_start]**Data Tools:** Databricks, PostgreSQL, MongoDB, Tableau, PowerBI[cite: 37, 65].
+* **Languages:** Python (FastAPI, PySpark), R, SQL.
+* **AI/ML Tools:** LangChain, RAG Pipelines, SHAP & LIME (Explainable AI), Deep Learning.
+* **Cloud & DevOps:** AWS, Azure, GCP, Docker, Airflow, Git, Databricks.
+* **Data Systems:** PostgreSQL, MongoDB, MySQL, Cassandra, Spark.
 
 ---
 
-### 📈 Current Interests & Collaboration
-* [cite_start]🌱 **Continuous Learning:** Recently completed the **AI Agents Intensive Course** (Google x Kaggle) to master agentic workflows and orchestration patterns[cite: 31, 33].
-* 💞️ **Trading Bots:** I am actively looking to collaborate on **cryptocurrency trading bots**, applying statistical modeling and high-performance Python scripts to financial data.
-* [cite_start]🤝 **ML Projects:** Open to collaborating on open-source ML/AI projects, particularly those involving predictive analytics and decision-making systems[cite: 13].
+### 📈 Current Focus & Collaboration
+* 🤖 **Trading Bots:** I am currently focused on developing **cryptocurrency trading bots**, applying statistical modeling, high-performance Python scripts, and predictive analytics to financial markets.
+* 🌱 **AI Agents:** Recently specialized in **AI Agent systems**, focusing on memory, tools, and retrieval components for autonomous workflows.
+* 💞️ **Collaboration:** I am looking to collaborate on open-source ML projects, particularly those involving financial tech or LLM orchestration.
 
 ---
 
 ### 🎓 Education & Certifications
-* [cite_start]**MSc Big Data & Data Science** – VIU Valencia (2025) [cite: 26, 27]
-* [cite_start]**BSc Statistics** – UVa Valladolid (2020) [cite: 28, 29]
-* [cite_start]**Certifications:** Google Data Analytics, LangChain for LLM Development, Explainable AI, and Deep Learning[cite: 35, 38, 42, 58].
+* **MSc Big Data & Data Science** – VIU Valencia (2025)
+* **BSc Statistics** – UVa Valladolid (2020)
+* **Certifications:** AI Agents Intensive (Google x Kaggle), LangChain for LLM Development, Google Data Analytics, and Biomedical Image Analysis.
 
 ---
 
-### 📫 Reach Me
-* [cite_start]**Email:** [gdiazamor.ds@gmail.com](mailto:gdiazamor.ds@gmail.com) [cite: 2]
-* [cite_start]**LinkedIn:** [linkedin.com/in/gdiazamor](https://www.linkedin.com/in/gdiazamor) [cite: 4]
-* [cite_start]**Portfolio:** [gondiam.github.io](https://gondiam.github.io/Gonzalo%20Portfolio) [cite: 5]
+### 📫 Let's Connect
+* **Email:** [gdiazamor.ds@gmail.com](mailto:gdiazamor.ds@gmail.com)
+* **LinkedIn:** [linkedin.com/in/gdiazamor](https://www.linkedin.com/in/gdiazamor)
+* **Portfolio:** [gondiam.github.io](https://gondiam.github.io/Gonzalo%20Portfolio)
 
 ---
-[cite_start]*"Continuous learning in Data Science is the key that unlocks the future of innovation."* [cite: 63]
+*"Continuous learning in Data Science is not an option, it is the key that unlocks the future of innovation and knowledge."*
 
 <!---
 gondiam/gondiam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
