@@ -1,6 +1,6 @@
-- 👋 Hi, I’m gondiam 
+- 👋 Hi, I’m Gonzalo Díaz
 - 👀 I’m interested in Statistics, Machine Learning, Deep Learning
-- 🌱 I’m currently learning Artificial Intelligence 
+- 🌱 I’m currently learning AI/LLM
 - 💞️ I’m looking to collaborate on ML projects and in trading bots in cryptocurrencies
 - 📫 How to reach me gdiazamor.ds@gmail.com
 
