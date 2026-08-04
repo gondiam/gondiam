@@ -37,8 +37,6 @@ I am a **GenAI-oriented Data Scientist** and **BSc Statistician** with a proven 
 * **LinkedIn:** [linkedin.com/in/gdiazamor](https://www.linkedin.com/in/gdiazamor)
 * **Portfolio:** [gondiam.github.io](https://gondiam.github.io/Gonzalo_Portfolio/)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gondiam)](https://git.io/streak-stats)
-
 ---
 *"Continuous learning in Data Science is not an option, it is the key that unlocks the future of innovation and knowledge."*
 
