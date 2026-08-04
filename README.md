@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Gonzalo Díaz Amor
 
-I am a **GenAI-oriented Data Scientist** and **BSc Statistician** with a proven track record in developing ML and AI pipelines. My expertise lies in building LLM-based architectures, RAG pipelines, and automating data workflows in cloud environments to solve complex business challenges.
+I am a **GenAI-oriented Data Scientist**, **MSc Big Data & Data Scienctist** and **BSc Statistician** with a proven track record in developing ML and AI pipelines. My expertise lies in building LLM-based architectures, RAG pipelines, and automating data workflows in cloud environments to solve complex business challenges.
 
 ---
 
