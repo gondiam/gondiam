@@ -1,6 +1,13 @@
 # 👋 Hi, I’m Gonzalo Díaz Amor
 
-I am a **GenAI-oriented Data Scientist**, **MSc Big Data & Data Scienctist** and **BSc Statistician** with a proven track record in developing ML and AI pipelines. My expertise lies in building LLM-based architectures, RAG pipelines, and automating data workflows in cloud environments to solve complex business challenges.
+I am a **GenAI-oriented Data Scientist**, **MSc in Big Data & Data Science** and **BSc Statistician** with a proven track record in developing ML and AI pipelines. My expertise lies in building LLM-based architectures, RAG pipelines, and automating data workflows in cloud environments to solve complex business challenges.
+
+---
+
+### 🧪 Featured Projects
+* **[llm-judge-stats](https://github.com/gondiam/llm-judge-stats):** Open-source Python package with the statistics to check whether an LLM judge can be trusted: kappa, ICC, bootstrap CIs, sample-size planning and position-bias checks.
+* **[sft-dpo-eval](https://github.com/gondiam/sft-dpo-eval):** Pre-registered post-training study on PubMedQA. SFT lifted Qwen3-1.7B from 38.6% to 71.7%; DPO added no gain and is reported as a null result.
+* **[rag-vs-okf](https://github.com/gondiam/rag-vs-okf):** Local benchmark of RAG, Open Knowledge Format and both combined over a corpus with deliberate traps.
 
 ---
 
