@@ -26,7 +26,8 @@ I am a **GenAI-oriented Data Scientist**, **MSc in Big Data & Data Science** and
 ---
 
 ### 📈 Current Focus & Collaboration
-* 🤖 **Trading Bots:** I am currently focused on developing **cryptocurrency trading bots**, applying statistical modeling, high-performance Python scripts, and predictive analytics to financial markets.
+* 📏 **LLM Evaluation:** I am focused on **evaluating LLMs rigorously**: LLM-as-a-Judge, statistical validation and pre-registered post-training studies.
+* 🤖 **Trading Bots:** I am also developing **cryptocurrency trading bots**, applying statistical modeling, high-performance Python scripts, and predictive analytics to financial markets.
 * 🌱 **AI Agents:** Recently specialized in **AI Agent systems**, focusing on memory, tools, and retrieval components for autonomous workflows.
 * 💞️ **Collaboration:** I am looking to collaborate on open-source ML projects, particularly those involving financial tech or LLM orchestration.
 
