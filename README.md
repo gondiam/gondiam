@@ -1,56 +1,44 @@
-# 👋 Hi, I’m Gonzalo Díaz Amor
+# Gonzalo Díaz Amor
 
-I am a **GenAI-oriented Data Scientist**, **MSc in Big Data & Data Science** and **BSc Statistician** with a proven track record in developing ML and AI pipelines. My expertise lies in building LLM-based architectures, RAG pipelines, and automating data workflows in cloud environments to solve complex business challenges.
+**Senior Data Scientist — LLM Evaluation & Statistical/Causal ML · Healthcare & Pharma**
 
----
+Data Scientist with 6 years across pharma, healthtech and mobility, and a BSc in Statistics. I work on LLM evaluation (LLM-as-a-Judge, RAG) and statistical/causal ML: pre-registered protocols, confidence intervals on every number, and null results reported as such.
 
-### 🧪 Featured Projects
-* **[llm-judge-stats](https://github.com/gondiam/llm-judge-stats):** Open-source Python package with the statistics to check whether an LLM judge can be trusted: kappa, ICC, bootstrap CIs, sample-size planning and position-bias checks.
-* **[sft-dpo-eval](https://github.com/gondiam/sft-dpo-eval):** Pre-registered post-training study on PubMedQA. SFT lifted Qwen3-1.7B from 38.6% to 71.7%; DPO added no gain and is reported as a null result.
-* **[rag-vs-okf](https://github.com/gondiam/rag-vs-okf):** Local benchmark of RAG, Open Knowledge Format and both combined over a corpus with deliberate traps.
+Based in Spain (CET), working remotely.
 
 ---
 
-### 🚀 Professional Highlights
-* **GenAI & LLMs:** Experienced in designing and deploying AI agent systems using LLMs, LangChain, embeddings, and vector search.
-* **Causal AI:** Developed data infrastructure for Double Machine Learning and Causal Forest models to quantify pollution's impact on patient outcomes.
-* **Engineering & Deployment:** Proficient in building RESTful APIs with FastAPI, containerizing applications with Docker, and orchestrating ETL workflows with Airflow.
-* **Clinical Data Science:** Acted as a programming lead for Phase IV studies, ensuring EMA compliance and optimizing research timelines by 3+ years.
-
-### 🛠️ Technical Stack
-* **Languages:** Python (FastAPI, PySpark), R, SQL.
-* **AI/ML Tools:** LangChain, RAG Pipelines, SHAP & LIME (Explainable AI), Deep Learning.
-* **Cloud & DevOps:** AWS, Azure, GCP, Docker, Airflow, Git, Databricks.
-* **Data Systems:** PostgreSQL, MongoDB, MySQL, Cassandra, Spark.
+### Featured Projects
+* **[llm-judge-stats](https://github.com/gondiam/llm-judge-stats):** Open-source Python package with the statistics to check whether an LLM judge can be trusted: kappa, ICC, bootstrap CIs, sample-size planning and position-bias checks. On the public MT-Bench human judgments, GPT-4 vs. human-majority kappa = 0.41 (95% CI 0.37-0.45).
+* **[sft-dpo-eval](https://github.com/gondiam/sft-dpo-eval):** Pre-registered post-training study on PubMedQA. SFT lifted Qwen3-1.7B from 38.6% to 71.7% (+33.1 points, 95% CI 27.4-38.9); DPO added no gain and is reported as a null result.
 
 ---
 
-### 📈 Current Focus & Collaboration
-* 📏 **LLM Evaluation:** I am focused on **evaluating LLMs rigorously**: LLM-as-a-Judge, statistical validation and pre-registered post-training studies.
-* 🤖 **Trading Bots:** I am also developing **cryptocurrency trading bots**, applying statistical modeling, high-performance Python scripts, and predictive analytics to financial markets.
-* 🌱 **AI Agents:** Recently specialized in **AI Agent systems**, focusing on memory, tools, and retrieval components for autonomous workflows.
-* 💞️ **Collaboration:** I am looking to collaborate on open-source ML projects, particularly those involving financial tech or LLM orchestration.
+### Professional Highlights
+* **LLM evaluation:** Designed an LLM-as-a-Judge for decision audits with per-replica shuffling against position bias and 5-replica majority voting: 91.7% unanimous verdicts over 1,272 comparisons.
+* **Pre-registered RAG evaluation:** Confirmatory vs. exploratory hypotheses, power analysis, bootstrap CIs and Benjamini-Hochberg, with failed hypotheses reported without post-hoc threshold changes.
+* **Causal ML:** Led the discovery phase of a Causal AI engagement on ~100,000 patients with Double ML and Causal Forest.
+* **Clinical data science:** Programming lead for a Phase IV study (SDTM, ADaM); propensity-score-matched real-world evidence on 20,000 patients; OMOP-CDM data lake across 3 hospitals.
+* **Engineering:** FastAPI inference APIs, Docker, Airflow, AWS and GCP.
+
+### Technical Stack
+* **LLM evaluation & statistics:** LLM-as-a-Judge, pre-registered protocols, power analysis, bootstrap CIs, inter-rater agreement (Cohen's kappa, ICC), Benjamini-Hochberg.
+* **GenAI & LLMs:** RAG, hybrid retrieval (dense + BM25, RRF), multi-agent pipelines, LangChain, ChromaDB, fine-tuning (SFT, DPO, LoRA).
+* **Languages & ML:** Python, R, SQL, SAS, PyTorch, Scikit-Learn, Causal ML, survival analysis.
+* **MLOps & data:** Docker, Airflow, AWS, GCP, CI/CD, PostgreSQL, MySQL, MongoDB.
+* **Clinical data standards:** CDISC (SDTM, ADaM), OMOP-CDM (OHDSI).
 
 ---
 
-### 🎓 Education & Certifications
-* **MSc Big Data & Data Science** – VIU Valencia (2025)
-* **BSc Statistics** – UVa Valladolid (2020)
-* **Certifications:** AI Agents Intensive (Google x Kaggle), LangChain for LLM Development, Google Data Analytics, and Biomedical Image Analysis.
+### Education & Certifications
+* **MSc Big Data & Data Science** – VIU (2025)
+* **BSc Statistics** – UVa, Valladolid (2020)
+* **Certifications:** AI Agents Intensive Course (Google x Kaggle, 2025), 6.86x Machine Learning with Python (MITx, 2021)
 
 ---
 
-### 📫 Let's Connect
+### Contact
 * **Email:** [gdiazamor.ds@gmail.com](mailto:gdiazamor.ds@gmail.com)
 * **LinkedIn:** [linkedin.com/in/gdiazamor](https://www.linkedin.com/in/gdiazamor)
-* **Portfolio:** [gondiam.github.io](https://gondiam.github.io/Gonzalo_Portfolio/)
-
----
-*"Continuous learning in Data Science is not an option, it is the key that unlocks the future of innovation and knowledge."*
-
-
-
-<!---
-gondiam/gondiam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* **Portfolio:** [gondiam.github.io/Gonzalo_Portfolio](https://gondiam.github.io/Gonzalo_Portfolio/)
+* **CV:** [PDF](https://github.com/gondiam/cv/raw/main/output/CV_Gonzalo_DiazAmor_EN.pdf)
