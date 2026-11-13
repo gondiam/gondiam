@@ -9,7 +9,7 @@ Based in Spain (CET), working remotely.
 ---
 
 ### Featured Projects
-* **[llm-judge-stats](https://github.com/gondiam/llm-judge-stats):** Open-source Python package with the statistics to check whether an LLM judge can be trusted: kappa, ICC, bootstrap CIs, sample-size planning and position-bias checks. On the public MT-Bench human judgments, GPT-4 vs. human-majority kappa = 0.41 (95% CI 0.37-0.45).
+* **[llm-judge-stats](https://github.com/gondiam/llm-judge-stats):** Open-source Python package with the statistics to check whether an LLM judge can be trusted: kappa, ICC, bootstrap CIs, sample-size planning and position-bias checks. On the public MT-Bench human judgments (1,814 items), GPT-4 vs. human-majority kappa = 0.51 (95% CI 0.47-0.54), on par with the human-human kappa of 0.50.
 * **[sft-dpo-eval](https://github.com/gondiam/sft-dpo-eval):** Pre-registered post-training study on PubMedQA. SFT lifted Qwen3-1.7B from 38.6% to 71.7% (+33.1 points, 95% CI 27.4-38.9); DPO added no gain and is reported as a null result.
 
 ---
